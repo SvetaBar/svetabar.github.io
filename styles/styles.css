@@ -1,0 +1,257 @@
+
+@font-face {
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/ptsans-400.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/ptsans-700.woff2 ") format("woff2");
+  font-display: swap;
+}
+html {
+  height: 100%;
+}
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: #ffffff
+}
+.reset-text {
+  margin: 0;
+}
+.main-container .main-index {
+  padding-top: 65px;
+  padding-bottom: 0px;
+}
+body {
+  display: flex;
+  margin: 0;
+  flex-direction: column;
+  min-height: 100%;
+  font-family: "PT Sans", "Arial", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 26px;
+  color: #333333;
+  background-color: #f2f2f2;
+  text-align: center;
+}
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+.page-header {
+  color: #000000;
+  background: #FFFFFF;
+}
+.navigation {
+  display: flex;
+  justify-content: space-between;
+}
+.navigation-list {
+  display: flex;
+  flex-wrap: wrap;
+  width: 600px;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.navigation-link {
+  padding: 20px;
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 26px;
+  color: inherit;
+  text-decoration: none;
+}
+.navigation-link-brown  {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 21px;
+  color: #FFFFFF;
+  background-color: #756257;
+  text-align: center;
+  text-transform:uppercase ;
+  text-decoration: none;
+}
+.promo {
+  padding-top: 51px;
+  padding-bottom: 79px;
+  margin: 0;
+}
+.promo . about-text  {
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.promo p {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 36px;
+  text-align: center;
+  color: #333333;
+}
+promo photo  {
+  margin-top: 46px;
+  margin-bottom: 25px;
+}
+.features-item {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  color: #333333;
+  background: rgba(131, 179, 211, 0.12);
+  text-align: center;
+}
+.features-item .features-title {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  text-transform: uppercase;
+}
+.index-columns,
+.index-columns-order {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.index-columns-order {
+ flex-direction:row-reverse;
+}
+.features-item-dark-blue {
+  color: #FFFFFF;
+  background-color: #83B3D3;
+  width: 400px;
+  }
+.features-item-light-blue {
+  width: 400px;
+  }
+.features-item-white {
+  width: 400px;
+  background: #FFFFFF;
+}
+.features-item-custom-blue {
+  width: 400px;
+  background: rgba(131, 179, 211, 0.2);
+}
+.features-title {
+  padding-top: 98px;
+}
+.features-number {
+  padding-top: 25px
+}
+.features-text {
+  padding-top: 26px
+}
+.index-columns-order .features-photo,
+.features-item .features-photo {
+  vertical-align: middle;
+}
+.subscribe {
+  margin: 0 auto;
+  padding: 0;
+  width: 1057px;
+  }
+.subscribe-title {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #000000;
+  padding-top: 91px;
+}
+.subscribe-text {
+  padding-top: 15px;
+  padding-bottom: 73px;
+}
+.subscribe-button {
+  margin: 0 auto;
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 36px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  background: #756257;
+  border-radius: 10px;
+  text-decoration: none;
+  width: 575px;
+}
+.call-to-action {
+  color: #FFFFFF;
+  text-align: center;
+  background-color: #83B3D3;
+  background-image: url("../images/call-to-action-canyon.jpg");
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.call-to-action-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 36px;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding-top: 94px;
+}
+.call-to-action-button {
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  background-color: #83B3D3;
+  width: 200px;
+  padding-bottom: 93px;
+}
+.call-to-action-text {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 26px;
+}
+.page-footer {
+  display: flex;
+  justify-content: space-between;
+}
+.footer-social-list {
+  list-style-type: none;
+  padding-top: 50px;
+  padding-bottom: 55px;
+}
+.footer-contacts-address-phone {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 40px;
+  text-align: center;
+  color: #000000;
+  text-decoration: none;
+}
+.footer-contacts {
+  padding-top: 40px;
+  padding-bottom: 30px;
+}

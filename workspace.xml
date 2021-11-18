@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6246bccb-01be-49fc-aef1-3817b282bbfa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1zMJKkyqcsLoz2IvkS4AYecb0A4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6246bccb-01be-49fc-aef1-3817b282bbfa" name="Changes" comment="" />
+      <created>1633951961812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633951961812</updated>
+      <workItem from="1633951964785" duration="673000" />
+      <workItem from="1634067079515" duration="7988000" />
+      <workItem from="1634470728104" duration="8161000" />
+      <workItem from="1634588032993" duration="1861000" />
+      <workItem from="1634639142092" duration="6609000" />
+      <workItem from="1634904784104" duration="3072000" />
+      <workItem from="1634988555999" duration="1374000" />
+      <workItem from="1635110883949" duration="713000" />
+      <workItem from="1635271494382" duration="6675000" />
+      <workItem from="1635405750386" duration="6853000" />
+      <workItem from="1635503613119" duration="18247000" />
+      <workItem from="1635860129649" duration="3757000" />
+      <workItem from="1635930647056" duration="28339000" />
+      <workItem from="1636206944863" duration="4432000" />
+      <workItem from="1636224300097" duration="301000" />
+      <workItem from="1636480851562" duration="4450000" />
+      <workItem from="1636629019575" duration="9846000" />
+      <workItem from="1636827481436" duration="297000" />
+      <workItem from="1636967743766" duration="18928000" />
+      <workItem from="1637056788780" duration="1690000" />
+      <workItem from="1637168510582" duration="4187000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
